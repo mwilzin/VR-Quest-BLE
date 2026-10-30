@@ -120,3 +120,4 @@ InitTestScene*.unity*
 # Tutorial walkthrough videos stay local. .meta files stay tracked so clip GUIDs remain stable.
 # Other .webm files are still tracked, through Git LFS (see .gitattributes).
 /[Aa]ssets/[Tt]utorials/[Mm]edia/*.webm
+.DS_Store
